@@ -1,0 +1,20 @@
+.mainHead{
+  margin-bottom: 5%;
+}
+
+.searchAndSelect{
+  margin: 0 auto !important;
+  margin-bottom: 6% !important;
+}
+
+.addAndDeleteBT{
+  text-align: right;
+}
+
+tr.colColor > th{
+  background-color: rgba(95, 92, 92, 0.813);
+}
+
+.pageChangeBT{
+  margin-top: 2% !important;
+}
